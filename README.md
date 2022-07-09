@@ -9,3 +9,5 @@
 ![Screenshot 2022-07-07 191559](https://user-images.githubusercontent.com/99513782/177891984-76dc7e60-3012-4f6a-bd9c-90713a6dc669.png)
 ## In this homework, I paid Lane 1 ETH and the hours of work are 5. This transaction also has been validated.
 ![Screenshot 2022-07-07 193446](https://user-images.githubusercontent.com/99513782/177892319-4eaa00cf-3466-4acb-8393-0d29d3cf884a.png)
+## Lane received  1ETH and her account balance became 101 ETH.
+![Screenshot 2022-07-08 203055](https://user-images.githubusercontent.com/99513782/178084791-6b47b4ac-e62c-4563-b891-76c45505871c.png)
