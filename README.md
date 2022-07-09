@@ -1,7 +1,7 @@
 # Cryptocurrency-Wallet
 ## I used the first account to send my transaction. The address is 0x322185EC19FAe6BF5E9807FC3073D81560326320 .
 ![Screenshot 2022-07-08 204424](https://user-images.githubusercontent.com/99513782/178085287-47e18970-6936-4147-a8d9-51a48b594674.png)
-## There are three transacitions in this account. The first two are for test only and the third one is for hiring a fintech professional.
+## There are three transacitions in this account. The bottom two are for test only and the first one is for hiring a fintech professional.
 ![Screenshot 2022-07-08 204229](https://user-images.githubusercontent.com/99513782/178085235-d7da6e84-e191-4c71-8514-366afc659956.png)
 ## The detail of transaction 3. It shows that I pay 1.00 ETH to the receiver and the gas fee is 21000.
 ![Screenshot 2022-07-08 203912](https://user-images.githubusercontent.com/99513782/178085147-244709b5-0880-4883-b8d5-13bb090d5cc5.png)
