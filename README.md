@@ -1,4 +1,6 @@
 # Cryptocurrency-Wallet
+### Talents Finder is an application that its users can use to find professionals from among a list of candidates, hire them, and pay them. Integrating the blockchain network into the apps in order to let users instantly paying the professionals whom they hire with cryptocurrency.
+## Step 1: Import Ethereum Transaction Functions into the Fintech Finder Application
 ## I used the first account to send my transaction. The address is 0x322185EC19FAe6BF5E9807FC3073D81560326320 .
 ![Screenshot 2022-07-08 204424](https://user-images.githubusercontent.com/99513782/178085287-47e18970-6936-4147-a8d9-51a48b594674.png)
 ## There are three transacitions in this account. The bottom two are for test only and the first one is for hiring a fintech professional.
@@ -7,7 +9,9 @@
 ![Screenshot 2022-07-08 203912](https://user-images.githubusercontent.com/99513782/178085147-244709b5-0880-4883-b8d5-13bb090d5cc5.png)
 ## This screenshot indicates all the information in Block 3. It includes Block Hash, TX hash and To Contract Address.
 ![Screenshot 2022-07-08 203656](https://user-images.githubusercontent.com/99513782/178085034-58e1a2b3-9051-4100-b705-56642481f977.png)
+## Step 2: Sign and Execute a Payment Transaction
 ## In this homework, I paid Lane 1 ETH and the hours of work are 5.
 ![Screenshot 2022-07-08 204711](https://user-images.githubusercontent.com/99513782/178085414-df9a7baf-454f-4ab7-808e-bc23300dd012.png)
+## Step 3: Inspect the Transaction
 ## Lane received  1ETH and her account balance became 101 ETH.
 ![Screenshot 2022-07-08 203055](https://user-images.githubusercontent.com/99513782/178084791-6b47b4ac-e62c-4563-b891-76c45505871c.png)
